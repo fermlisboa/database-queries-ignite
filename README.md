@@ -42,7 +42,7 @@ Realizar consultas no banco de dados com o TypeORM de três formas:
 $ git clone https://github.com/fermlisboa/database-queries-ignite.git
 
 # Entre na pasta
-$ cd IgniteNode-ChapterIII-Desafio01
+$ cd database-queries-ignite
 
 # Instale as dependências
 $ yarn ou yarn install
